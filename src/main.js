@@ -1,4 +1,5 @@
 import { createApp } from "vue";
+import firebase from "firebase/app"
 import App from "./App.vue";
 import { DatePicker } from "ant-design-vue";
 // import "ant-design-vue/lib/date-picker/style/css"; // for css

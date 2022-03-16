@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "nash-work02",
+    "nash_work02": "nash-work02"
+  },
+  "targets": {}
+}

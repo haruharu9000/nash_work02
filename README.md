@@ -1,7 +1,22 @@
-# Vue 3 + Vite
+# Vue3 + Vite + Ant Design
+JavaScriptフレームワーク「Vue.js」は今まで触れたことがなかったが、
+2022年2月7日以降、Vue3がデフォルトになったのでこの機会に使ってみることにした。
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 改善点
 
-## Recommended IDE Setup
+#### localhostが表示されない
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+何度か正しく表示されたが、3/16 20:42時点で「http://localhost:3000/」が正しく表示されない。
+
+#### Firebase Hostingのウェルカムページの箇所で詰まる
+
+デプロイした後、リンク先を開き「welcome Firebase Hosting Complete」の画面は表示されたものの、開発中の画面が反映されない。
+
+## 参考資料
+
+##### YouTube
+https://youtu.be/HiiEJfMzVK8
+
+##### 使おうと思ったきっかけの記事
+https://codezine.jp/article/detail/15628
+

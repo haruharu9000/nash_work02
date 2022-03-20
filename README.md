@@ -22,15 +22,11 @@ SSD 256GB
 
 ### Version
 
-MAMP 6.6
+Vue.js 3.2.31
 
-・MacOS Monterey 12.2.1
+Vite 2.8.6
 
-・Apache 2.4.51(Unix)
-
-・MySQL 5.7.34
-
-・PHP 7.4.21
+Ant Design of Vue 4.19.2
 
 ## 参考資料
 

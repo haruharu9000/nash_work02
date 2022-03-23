@@ -14,13 +14,11 @@ memory 8GB
 
 SSD 256GB
 
-8coreCPU 7コアcore
+8coreCPU 7coreGPU
 
 16coreNeural Engine
 
 ## 実行環境
-
-### Version
 
 Vue.js 3.2.31
 
@@ -30,11 +28,11 @@ Ant Design of Vue 4.19.2
 
 ## 参考資料
 
-### YouTube
+#### YouTube
 
 https://youtu.be/HiiEJfMzVK8
 
-### 使おうと思ったきっかけの記事
+#### 使おうと思ったきっかけの記事
 
 https://codezine.jp/article/detail/15628
 
